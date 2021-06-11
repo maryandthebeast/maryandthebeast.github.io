@@ -1,0 +1,46 @@
+.music-container {
+  background: url('../img/carta4.png');
+  background-size: cover;
+  background-attachment: fixed;
+  /*height: 100vh;*/
+}
+/* .h4-text {
+  font-family: "Marcellus", serif;
+} */
+.box {
+  background-color: #3b3a40;
+  color: white;
+}
+.img-card {
+  width: 100%;
+}
+.yt-color {
+  color: red;
+}
+.s-color {
+  color: #1db954;
+}
+/* .s-color:hover {
+  color: #1db954;
+} */
+.icon-color {
+  color: grey;
+}
+
+.box1 {
+  background-color: white;
+  color: white;
+  height: 400px;
+  margin-bottom: 60px;
+}
+.diary-cover {
+  background: url('../img/carta4.png');
+  background-size: cover;
+  background-attachment: fixed;
+  /*height: 100vh;*/
+}
+.bottom:hover {
+  background-color: #3b3a40 !important;
+  color: white !important;
+  border-color: white !important;
+}
