@@ -1,6 +1,11 @@
-/* h3 {
+h3 {
   font-size: 3em;
-} */
+}
+.titleG {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .allcontainer {
   width: 100%;
 }
